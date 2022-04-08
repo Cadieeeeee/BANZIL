@@ -4,3 +4,6 @@ Hello tae
 HELLO SIR
 A sample line added by the owner
 
+=======
+I added this line me the collaborator
+>>>>>>> a6ddf3cf7c6b1c72f6e221924629df5c4f8cec29
